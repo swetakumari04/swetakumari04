@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning ** web development**
 
-- 👯 I’m looking to collaborate on **some really cool web development projects**
+<!-- - 👯 I’m looking to collaborate on **some really cool web development projects** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04)
 
-- 💬 Ask me about **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, JS, ReactJs.....**
+- 💬 Ask me about: **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, JS, ReactJs.....**
 
-- 📫 How to reach me **sk72@iitbbs.ac.in**
+- 📫 How to reach me: **sk72@iitbbs.ac.in**
 
-- 📄 Know about my experiences [Portfolio](https://swetakumariportfolio.vercel.app/)
+- 📄 Know about my experiences: **[Portfolio]** (https://swetakumariportfolio.vercel.app/)
 
-- ⚡ Hobbies **Drawing & Reading Books**
+- ⚡ Hobbies: **Drawing & Reading Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
