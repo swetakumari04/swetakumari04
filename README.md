@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04)
 
-- 💬 Ask me about: **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, JS, ReactJs.....**
+- 💬 Ask me about: **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, .....**
 
 - 📫 How to reach me: **sk72@iitbbs.ac.in**
 
