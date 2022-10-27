@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in final year B.Tech at **IIT Bhubaneswar**
 
-- 🌱 I’m currently learning ** web development**
+- 🌱 I’m currently learning **web development**
 
 <!-- - 👯 I’m looking to collaborate on **some really cool web development projects** -->
 
