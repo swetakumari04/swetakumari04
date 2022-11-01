@@ -7,7 +7,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **some really cool web development projects** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04) -->
 
 - 💬 Ask me about: **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, .....**
 
