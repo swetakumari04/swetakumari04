@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **sk72@iitbbs.ac.in**
 
-- 📄 Know about my experiences: **[Portfolio]** (https://swetakumariportfolio.vercel.app/)
+- 📄 Know about my experiences: **[Portfolio]** (https://swetaportfolio.vercel.app/)
 
 - ⚡ Hobbies: **Drawing & Reading Books**
 
