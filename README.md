@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently in final year B.Tech at **IIT Bhubaneswar**
 
-- 🌱 I’m currently learning **web development**
-
-<!-- - 👯 I’m looking to collaborate on **some really cool web development projects** -->
+- 🌱 I’m currently working at **Brane Group** as a software development engineer
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04) -->
 
-- 💬 Ask me about: **C/C++, DSA, OOPS, OS, DBMS, HTML, CSS, .....**
+- 💬 Ask me about: **C/C++, JAVA, SpringBoot, Thymleaf, MongoDB, Mysql, Swagger, DSA, OOPS, OS, DBMS, HTML, CSS, .....**
 
-- 📫 How to reach me: **sk72@iitbbs.ac.in**
+- 📫 How to reach me: **sk72@iitbbs.ac.in**/**swetakumari1377@gmail.com**
 
 - 📄 Know about my experiences: **[Portfolio]** (https://swetaportfolio.vercel.app/)
 
