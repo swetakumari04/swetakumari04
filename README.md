@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
 <h3 align="center">A passionate problem solver and software developer</h3>
 
-- 🔭 I’m currently in final year B.Tech at **IIT Bhubaneswar**
+- 🔭 I’m have graduated in 2023 from **IIT Bhubaneswar**
 
-- 🌱 I’m currently working at **Brane Group** as a software development engineer
+- 🌱 I’m currently working at **Brane Group** as a Software development engineer
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/swetakumari04](https://github.com/swetakumari04) -->
 
